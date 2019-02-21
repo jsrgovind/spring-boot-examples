@@ -38,3 +38,7 @@ https://www.martinfowler.com/microservices/
 https://docs.mongodb.com/manual/tutorial/query-documents/
 
 https://github.com/sbtalk71/uhg-springboot
+
+https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html
+
+https://github.com/openzipkin/docker-zipkin
