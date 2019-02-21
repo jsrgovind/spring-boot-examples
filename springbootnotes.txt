@@ -1,0 +1,35 @@
+java -jar -Dserver.port=8383 myWebapp.war
+
+java -jar myWebapp.war --server.port=9090
+
+yaml-  yet another markup language
+
+
+https://github.com/sbtalk71/support-files.git
+
+
+MySql 
+======
+pwd: root
+
+To insert tables in db
+
+source <path of springdb.sql>  
+
+MongoDB:
+=======
+
+C:\Program Files\MongoDB\Server\4.0\bin>mongo
+
+> show databases
+>quit()
+
+
+mongodb://127.0.0.1:27017/?gssapiServiceName=mongodb
+
+RabbitMq
+===========
+http://arcware.net/installing-rabbitmq-on-windows/
+
+
+$2a$10$3fClJV7Mzlq.AqKbpwa1D.DwTU5DdSxmW2T8kjN2q0rg6m54NfJcS
