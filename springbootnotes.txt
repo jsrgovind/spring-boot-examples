@@ -31,5 +31,7 @@ RabbitMq
 ===========
 http://arcware.net/installing-rabbitmq-on-windows/
 
+https://manage.openshift.com
 
-$2a$10$3fClJV7Mzlq.AqKbpwa1D.DwTU5DdSxmW2T8kjN2q0rg6m54NfJcS
+https://console.starter-us-west-2.openshift.com/console/catalog
+https://www.martinfowler.com/microservices/
